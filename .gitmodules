@@ -14,3 +14,6 @@
 [submodule "keebio-components"]
 	path = keebio-components
 	url = https://github.com/keebio/keebio-components
+[submodule "RP2040-designguide"]
+	path = RP2040-designguide
+	url = https://github.com/Sleepdealr/RP2040-designguide/
