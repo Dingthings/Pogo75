@@ -269,10 +269,10 @@
       (reference "D24") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/bc416adc-4ca0-441a-84e9-6f46b4e2f0f5"
-      (reference "F1") (unit 1) (value "OLED1") (footprint "")
+      (reference "F1") (unit 1) (value "OLED1") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/b9636985-fd3e-4fcc-ba8c-107160520d57"
-      (reference "F2") (unit 1) (value "OLED2") (footprint "")
+      (reference "F2") (unit 1) (value "OLED2") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/1a39f690-87d6-4009-9bfd-c135afc17c35"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty")
@@ -308,82 +308,82 @@
       (reference "K4") (unit 1) (value "Mod4") (footprint "marbastlib-mx:SW_MX_HS_1u_Enc")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/b1790b24-59cd-4cc0-acfa-986e8dc0080e"
-      (reference "K5") (unit 1) (value "Num") (footprint "")
+      (reference "K5") (unit 1) (value "Num") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/2d774d37-1004-4774-9c5e-1ac90a5b7b5b"
-      (reference "K6") (unit 1) (value "/") (footprint "")
+      (reference "K6") (unit 1) (value "/") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/48bca903-bcaa-44fc-9b07-26e322aa27b3"
-      (reference "K7") (unit 1) (value "*") (footprint "")
+      (reference "K7") (unit 1) (value "*") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/f4f1c297-b20c-4f28-bbf0-4012e7b65c28"
-      (reference "K8") (unit 1) (value "-") (footprint "")
+      (reference "K8") (unit 1) (value "-") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d7aa1da7-da09-48fb-b8a8-8ef871f3e1cc"
-      (reference "K9") (unit 1) (value "7") (footprint "")
+      (reference "K9") (unit 1) (value "7") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/54b34352-fe4b-4765-9e46-990993847765"
-      (reference "K10") (unit 1) (value "8") (footprint "")
+      (reference "K10") (unit 1) (value "8") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/16fd251a-7f76-4cee-8670-b46625f61de1"
-      (reference "K11") (unit 1) (value "9") (footprint "")
+      (reference "K11") (unit 1) (value "9") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/ff03ea3b-6e66-4a85-a73c-8aff08be401e"
-      (reference "K12") (unit 1) (value "SW_Push") (footprint "")
+      (reference "K12") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d828e61a-c50f-4f13-b6ae-d2f441a4f14d"
-      (reference "K13") (unit 1) (value "4") (footprint "")
+      (reference "K13") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/5c88fdca-6e63-49e1-b64d-c13ffd114300"
-      (reference "K14") (unit 1) (value "5") (footprint "")
+      (reference "K14") (unit 1) (value "5") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/3b6cbf9a-9521-422f-af2d-b6cc423fc199"
-      (reference "K15") (unit 1) (value "6") (footprint "")
+      (reference "K15") (unit 1) (value "6") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/a59aa3ee-a359-402c-9562-3f87363e1a39"
-      (reference "K16") (unit 1) (value "SW_Push") (footprint "")
+      (reference "K16") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/fe698b8e-0f46-4ba7-b86e-f19294d4b5ef"
-      (reference "K17") (unit 1) (value "1") (footprint "")
+      (reference "K17") (unit 1) (value "1") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/b78b2786-63cb-4c1c-a5e8-47d2094ed4c0"
-      (reference "K18") (unit 1) (value "2") (footprint "")
+      (reference "K18") (unit 1) (value "2") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/772cad1a-9f5e-40fd-b892-624eab9501e3"
-      (reference "K19") (unit 1) (value "3") (footprint "")
+      (reference "K19") (unit 1) (value "3") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/8db9a3ff-b127-4853-93c7-8d6de734d182"
-      (reference "K20") (unit 1) (value "SW_Push") (footprint "")
+      (reference "K20") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/8cb3841c-6ab9-42b1-b5d4-c3e230c95c47"
-      (reference "K21") (unit 1) (value "0") (footprint "")
+      (reference "K21") (unit 1) (value "0") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d1f9bc72-f377-4c3c-9748-5cfce018e689"
-      (reference "K22") (unit 1) (value ".") (footprint "")
+      (reference "K22") (unit 1) (value ".") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/f82400c6-e24c-4490-87e4-391612ac070c"
-      (reference "K23") (unit 1) (value "SW_Push") (footprint "")
+      (reference "K23") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/5ab15080-4552-4724-a8b0-49069ac864b7"
-      (reference "K24") (unit 1) (value "Enter") (footprint "")
+      (reference "K24") (unit 1) (value "Enter") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/47380512-36bf-4c46-bd60-d263fed6531a"
-      (reference "KO-1") (unit 1) (value "4") (footprint "")
+      (reference "KO-1") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/47714bfd-ff89-4356-bcb9-916ea7e8b04f"
-      (reference "KO-2") (unit 1) (value "4") (footprint "")
+      (reference "KO-2") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/23ad0200-89f0-4163-962c-aad2c5058022"
-      (reference "KO-3") (unit 1) (value "4") (footprint "")
+      (reference "KO-3") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/21908e87-4a1b-45f8-b0fe-d361badbdc1e"
-      (reference "KO-4") (unit 1) (value "4") (footprint "")
+      (reference "KO-4") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/8fa8dcc4-8451-4b4d-8edc-0a9270340fc2"
       (reference "R1") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/40715f59-6f0a-47d8-b499-b0fd39ab216d"
-      (reference "R2") (unit 1) (value "R_Small") (footprint "")
+      (reference "R2") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/a17b7ec4-d21c-45d8-800e-1b60a1a1f0ec"
       (reference "R3") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -401,7 +401,7 @@
       (reference "U1") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/0d5fe20b-bdca-4d84-9793-d50db4fa1ca9"
-      (reference "U2") (unit 1) (value "RP2040") (footprint "Sleep-Lib:RP2040-QFN-56")
+      (reference "U2") (unit 1) (value "RP2040") (footprint "Sleep-footprints:RP2040-QFN-56")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/891b2c69-d1cf-47b9-8cae-816fbcf261e4"
       (reference "U3") (unit 1) (value "XC6206PxxxMR-Regulator_Linear") (footprint "Package_TO_SOT_SMD:SOT-23")
