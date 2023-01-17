@@ -296,88 +296,88 @@
       (reference "J5") (unit 1) (value "Conn_01x11") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Vertical")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/80fc1c89-e5e9-403a-abec-ff5c1e9a89de"
-      (reference "K1") (unit 1) (value "Mod1") (footprint "marbastlib-mx:SW_MX_HS_1u_Enc")
+      (reference "K1") (unit 1) (value "Mod1") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u_Enc")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/1371e172-786c-4309-926f-2e19bc2176b7"
-      (reference "K2") (unit 1) (value "Mod2") (footprint "marbastlib-mx:SW_MX_HS_1u_Enc")
+      (reference "K2") (unit 1) (value "Mod2") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u_Enc")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/dca0a8cd-7bc8-422b-b781-59a5ccdeb99d"
-      (reference "K3") (unit 1) (value "Mod3") (footprint "marbastlib-mx:SW_MX_HS_1u_Enc")
+      (reference "K3") (unit 1) (value "Mod3") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u_Enc")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/6aa1eb3e-a563-4138-9f43-3c8ee26bb741"
-      (reference "K4") (unit 1) (value "Mod4") (footprint "marbastlib-mx:SW_MX_HS_1u_Enc")
+      (reference "K4") (unit 1) (value "Mod4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u_Enc")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/b1790b24-59cd-4cc0-acfa-986e8dc0080e"
-      (reference "K5") (unit 1) (value "Num") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K5") (unit 1) (value "Num") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/2d774d37-1004-4774-9c5e-1ac90a5b7b5b"
-      (reference "K6") (unit 1) (value "/") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K6") (unit 1) (value "/") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/48bca903-bcaa-44fc-9b07-26e322aa27b3"
-      (reference "K7") (unit 1) (value "*") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K7") (unit 1) (value "*") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/f4f1c297-b20c-4f28-bbf0-4012e7b65c28"
-      (reference "K8") (unit 1) (value "-") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K8") (unit 1) (value "-") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d7aa1da7-da09-48fb-b8a8-8ef871f3e1cc"
-      (reference "K9") (unit 1) (value "7") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K9") (unit 1) (value "7") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/54b34352-fe4b-4765-9e46-990993847765"
-      (reference "K10") (unit 1) (value "8") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K10") (unit 1) (value "8") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/16fd251a-7f76-4cee-8670-b46625f61de1"
-      (reference "K11") (unit 1) (value "9") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K11") (unit 1) (value "9") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/ff03ea3b-6e66-4a85-a73c-8aff08be401e"
-      (reference "K12") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K12") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d828e61a-c50f-4f13-b6ae-d2f441a4f14d"
-      (reference "K13") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K13") (unit 1) (value "4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/5c88fdca-6e63-49e1-b64d-c13ffd114300"
-      (reference "K14") (unit 1) (value "5") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K14") (unit 1) (value "5") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/3b6cbf9a-9521-422f-af2d-b6cc423fc199"
-      (reference "K15") (unit 1) (value "6") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K15") (unit 1) (value "6") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/a59aa3ee-a359-402c-9562-3f87363e1a39"
-      (reference "K16") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K16") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/fe698b8e-0f46-4ba7-b86e-f19294d4b5ef"
-      (reference "K17") (unit 1) (value "1") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K17") (unit 1) (value "1") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/b78b2786-63cb-4c1c-a5e8-47d2094ed4c0"
-      (reference "K18") (unit 1) (value "2") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K18") (unit 1) (value "2") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/772cad1a-9f5e-40fd-b892-624eab9501e3"
-      (reference "K19") (unit 1) (value "3") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K19") (unit 1) (value "3") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/8db9a3ff-b127-4853-93c7-8d6de734d182"
-      (reference "K20") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K20") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/8cb3841c-6ab9-42b1-b5d4-c3e230c95c47"
-      (reference "K21") (unit 1) (value "0") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K21") (unit 1) (value "0") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/d1f9bc72-f377-4c3c-9748-5cfce018e689"
-      (reference "K22") (unit 1) (value ".") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K22") (unit 1) (value ".") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/f82400c6-e24c-4490-87e4-391612ac070c"
-      (reference "K23") (unit 1) (value "SW_Push") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K23") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/5ab15080-4552-4724-a8b0-49069ac864b7"
-      (reference "K24") (unit 1) (value "Enter") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "K24") (unit 1) (value "Enter") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/47380512-36bf-4c46-bd60-d263fed6531a"
-      (reference "KO-1") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "KO-1") (unit 1) (value "4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/47714bfd-ff89-4356-bcb9-916ea7e8b04f"
-      (reference "KO-2") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "KO-2") (unit 1) (value "4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/23ad0200-89f0-4163-962c-aad2c5058022"
-      (reference "KO-3") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "KO-3") (unit 1) (value "4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/65442c67-72e6-473d-8d87-f098802f1feb/21908e87-4a1b-45f8-b0fe-d361badbdc1e"
-      (reference "KO-4") (unit 1) (value "4") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "KO-4") (unit 1) (value "4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/93c98f32-40df-4495-826c-d047f5d2691a/8fa8dcc4-8451-4b4d-8edc-0a9270340fc2"
       (reference "R1") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0402_1005Metric")
