@@ -1,2 +1,2 @@
 # Pogo75
- Pogo75 + Numpad
+Pogo Pin Based 75% keyboard with feature filled detachable numpad.
